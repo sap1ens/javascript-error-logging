@@ -1,5 +1,6 @@
 /**
  * Logging function that will trap javascript errors and report them
+ * Update track_event_url variable for your needs
  * 
  * @author sap1ens https://github.com/sap1ens/javascript-error-logging (fork from https://github.com/robby1066/javascript-error-logging)
  * @dependency JSON.stringify() // IE8+
