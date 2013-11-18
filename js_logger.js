@@ -3,6 +3,7 @@
  * Update track_event_url variable for your needs
  * 
  * @author sap1ens https://github.com/sap1ens/javascript-error-logging (fork from https://github.com/robby1066/javascript-error-logging)
+ * @version 1.0
  * @dependency JSON.stringify() // IE8+
  */
 var js_logger = (function() {
